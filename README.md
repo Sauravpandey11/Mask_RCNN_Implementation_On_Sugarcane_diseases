@@ -29,3 +29,12 @@ In the custom.py, you'll find code for training the Mask R-CNN model. Adjust the
 
 # Testing
 Prediction.ipynb contains code that imports the model created by custom.py and uses it to predict the class and mark the segmentation of image that you provided.
+
+# Results
+## Actual Image
+![yellow (2)](https://github.com/Sauravpandey11/Mask_RCNN_Implementation_On_Sugarcane_diseases/assets/90001597/f26abe66-e415-4776-9033-fab309e529fb)
+
+
+## Segmented Image
+![5c54d143-101f-4baa-b7cc-f1892b659ef6](https://github.com/Sauravpandey11/Mask_RCNN_Implementation_On_Sugarcane_diseases/assets/90001597/5928731c-fe7e-4b4e-a848-7fe828257f64)
+
